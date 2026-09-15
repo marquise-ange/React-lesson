@@ -20,7 +20,6 @@ function Header() {
         </header>
     )
 }
-
 function MainContent() {
     return (
         <main>
