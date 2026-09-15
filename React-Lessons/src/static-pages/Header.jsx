@@ -1,3 +1,7 @@
+/* this is the way of organizing the code in a better way, by
+ creating a separate component for the header and importing it into the main file and it can happen to other components. */
+
+
 function Header() {
     return (
         <header className="header">

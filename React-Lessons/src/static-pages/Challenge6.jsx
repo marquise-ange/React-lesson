@@ -6,7 +6,7 @@
  *   "Pricing", "About", and "Contact"
  */
 
-function Header() {
+/*function Header() {
     return (
         <header className="header">
             <img src="react-logo.png"  className="nav-Logo"  alt="React logo" />
@@ -51,3 +51,4 @@ function Page() {
 }
 
 export default Page
+*/
