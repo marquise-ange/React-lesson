@@ -52,7 +52,15 @@ main>h1 {
     padding-block: 10px;
 }
 
-.fact-list>li::marker {
+.facts-list>li::marker {
     color: #61DAFB;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
+
+
+main{
+    padding:60px 30px;
+    background-image: url(public/react-logo.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    }
