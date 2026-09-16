@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-body {
+/*body {
     margin: 0;
     font-family: Inter, sans-serif;
     background-color: #282D35;
@@ -60,7 +60,35 @@ main>h1 {
 
 main{
     padding:60px 30px;
-    background-image: url(public/react-logo-half.png);
+     background-image: url(public/react-logo-half.png); 
     background-repeat: no-repeat;
     background-position: right 70%;
     }
+*/
+
+body {
+    margin: 0;
+    font-family: Inter, sans-serif;
+    background-color: #282D35;
+    color: #F5F5F5;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+    height:  500px;
+}
+nav-email {
+    color: #61DAFB;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+nav-button {
+    width: 40px;
+    margin-right: 7px;
+    border-radius: 50%;
+    background-color: #61DAFB;
+    border: none;
+    cursor: pointer;
+}
