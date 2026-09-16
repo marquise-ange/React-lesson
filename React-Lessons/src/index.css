@@ -60,7 +60,7 @@ main>h1 {
 
 main{
     padding:60px 30px;
-    background-image: url(public/react-logo.png);
+    background-image: url(public/react-logo-half.png);
     background-repeat: no-repeat;
-    background-position: right bottom;
+    background-position: right 70%;
     }
