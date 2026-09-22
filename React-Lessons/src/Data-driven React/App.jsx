@@ -3,7 +3,6 @@ function App() {
     return (
         <>
             <Header />
-            <h1>I am the App component!</h1>
         </>
     )
 }
