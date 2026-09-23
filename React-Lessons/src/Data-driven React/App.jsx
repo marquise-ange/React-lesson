@@ -1,10 +1,15 @@
 import Entry from "./Components/Entry"
 import Header from "./Components/Header"
+import Contact from ".Data-driven React/Contact"
 function App() {
     return (
         <>
             <Header />
             <Entry />
+            <Contact />
+            <Contact />
+            <Contact />
+            <Contact />
             
         </>
     )
